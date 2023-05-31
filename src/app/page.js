@@ -1,5 +1,5 @@
 "use client";
-
+import React, { useEffect } from "react";
 import AOS from "aos";
 
 import Footer from "@/components/Footer";
@@ -13,7 +13,6 @@ import Note from "@/components/Note";
 import WorkWithUs from "@/components/WorkWithUs";
 import Vacancies from "@/components/Vacancies";
 import Navbar from "@/components/Navbar";
-import { useEffect } from "react";
 
 export default function home() {
   useEffect(() => {
