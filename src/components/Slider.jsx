@@ -10,44 +10,44 @@ const Slider = () => {
             bgColor="bg-red-100"
             title="You get a promotion at work"
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-            emoji="emoji"
+            emoji="😃"
           />
           <SliderCard
             bgColor="bg-red-100"
-            title="You get a promotion at work"
+            title="You argue with a friend"
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-            emoji="emoji"
+            emoji="😠"
           />
           <SliderCard
             tilted
             bgColor="bg-indigo-400"
             title="You get a promotion at work"
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-            emoji="emoji"
+            emoji="😔"
           />
           <SliderCard
             bgColor="bg-red-100"
             title="You get a promotion at work"
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-            emoji="emoji"
+            emoji="😳"
           />
           <SliderCard
             bgColor="bg-red-100"
             title="You get a promotion at work"
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-            emoji="emoji"
+            emoji="🙂"
           />
           <SliderCard
             bgColor="bg-red-100"
             title="You get a promotion at work"
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-            emoji="emoji"
+            emoji="😟"
           />
           <SliderCard
             bgColor="bg-red-100"
             title="You get a promotion at work"
             content="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
-            emoji="emoji"
+            emoji="😑"
           />
         </div>
       </div>
